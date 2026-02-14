@@ -32,7 +32,7 @@ Il modulo `nbody.py` contiene:
     * solve_ivp di SciPy (opzionale)
 * calcolo energia totale
 * calcolo baricentro
-* calcolo velocità radiale
+* analisi velocità radiale
 
 Gli script `run_*.py` sono esempi di utilizzo del modulo per produrre i risultati richiesti.
 
