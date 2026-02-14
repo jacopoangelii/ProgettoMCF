@@ -60,7 +60,7 @@ Esecuzione delle Simulazioni
 
 Posizionarsi nella cartella principale del progetto:
 ```
-cd .../ProgettoMCF
+cd .../Progetto
 ```
 
 ---
